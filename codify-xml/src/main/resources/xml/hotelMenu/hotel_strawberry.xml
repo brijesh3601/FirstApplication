@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotel name="Strawberry">
+	<breakfast-menu>
+		<category type="Waffles">
+			<food>
+				<name>Strawberry Waffles</name>
+				<price>$5.95</price>
+				<description>two of our famous Strawberry Waffles with plenty of real Strawberry syrup</description>
+				<calories>650</calories>
+			</food>
+		</category>
+		<category type="Cake">
+			<food>
+				<name>Strawberry Cake</name>
+				<price>$7.95</price>
+				<description>light Strawberry Cake covered with strawberrys and whipped cream</description>
+				<calories>900</calories>
+			</food>
+		</category>
+		<category type="Yogurt">
+			<food>
+				<name>Strawberry Yogurt</name>
+				<price>$8.95</price>
+				<description>Strawberry yogurt with an assortment of fresh berries and whipped cream</description>
+				<calories>900</calories>
+			</food>
+		</category>
+		<category type="Toast">
+			<food>
+				<name>Strawberry Toast</name>
+				<price>$4.50</price>
+				<description>thick slices made from our homemade sourdough bread and Strawberry</description>
+				<calories>600</calories>
+			</food>
+		</category>
+		<category type="HomeStyle">
+			<food>
+				<name>Homestyle Strawberry Breakfast</name>
+				<price>$6.95</price>
+				<description>Strawberry, toast, and our ever-popular hash browns</description>
+				<calories>950</calories>
+			</food>
+		</category>
+	</breakfast-menu>
+</hotel>

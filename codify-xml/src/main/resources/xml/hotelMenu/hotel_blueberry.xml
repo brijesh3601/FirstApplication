@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<hotel name="Blueberry">
+	<breakfast-menu>
+		<category type="Waffles">
+			<food>
+				<name>Blueberry Waffles</name>
+				<price>$5.95</price>
+				<description>two of our famous Blueberry Waffles with plenty of real Blueberry syrup</description>
+				<calories>650</calories>
+			</food>
+		</category>
+		<category type="Cake">
+			<food>
+				<name>Blueberry Cake</name>
+				<price>$7.95</price>
+				<description>light Blueberry Cake covered with Blueberrys and whipped cream</description>
+				<calories>900</calories>
+			</food>
+		</category>
+		<category type="Yogurt">
+			<food>
+				<name>Blueberry Yogurt</name>
+				<price>$8.95</price>
+				<description>Blueberry yogurt with an assortment of fresh berries and whipped cream</description>
+				<calories>900</calories>
+			</food>
+		</category>
+		<category type="Toast">
+			<food>
+				<name>Blueberry Toast</name>
+				<price>$4.50</price>
+				<description>thick slices made from our homemade sourdough bread and Blueberry</description>
+				<calories>600</calories>
+			</food>
+		</category>
+		<category type="HomeStyle">
+			<food>
+				<name>Homestyle Blueberry Breakfast</name>
+				<price>$6.95</price>
+				<description>Blueberry, toast, and our ever-popular hash browns</description>
+				<calories>950</calories>
+			</food>
+		</category>
+	</breakfast-menu>
+</hotel>
