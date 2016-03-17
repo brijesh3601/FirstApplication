@@ -59,6 +59,7 @@ public class XmlMergeDemo {
 			List<Element> strawBerryCategory = categoryXPath.evaluate(strawBerryDocument);
 			
 			//Assuming both hotels has same number of food category
+			//if detach is not use it will throw 
 			for(int i=0; i < blueBerryFoods.size(); i++){
 				
 				strawBerryCategory.get(i).addContent(blueBerryFoods.get(i).detach());
